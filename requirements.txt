@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 requests
-sqlalchemy
+SQLAlchemy
 contextlib
 PIL
 os
