@@ -1,8 +1,9 @@
-streamlit
-numpy
-pandas
+streamlit = 1.40.2
+numpy == 1.26.4
+pandas == 2.2.2
 requests
-SQLAlchemy==2.0.30
+sqlalchemy == 2.0.30
 contextlib
 PIL
 os
+Python == 3.12.3
