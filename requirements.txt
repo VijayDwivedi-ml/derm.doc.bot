@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 requests
-SQLAlchemy
+SQLAlchemy==1.4.20
 contextlib
 PIL
 os
