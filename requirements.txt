@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+requests
+sqlalchemy
+contextlib
+PIL
+os
